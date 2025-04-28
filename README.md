@@ -1,3 +1,5 @@
+Com muito orgulho, este projeto conquistou o 1º lugar no Campeonato de Programação da UFC - Universidade Federal do Ceará! 🏆
+ - 
 Este projeto foi desenvolvido durante um campeonato de programação na Universidade Federal do Ceará(UFC), aplicando meus conhecimentos em C e práticas de manipulação de arquivos.
 O processo de criação deste projeto levou cerca de 5 horas e foi uma excelente oportunidade para reforçar conceitos como structs, manipulação de arquivos e organização de código em C!
 
